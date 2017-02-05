@@ -1,0 +1,1 @@
+document.write('<iframe src="http://tvizlet-me.do.am/saat.htm" scrolling="no" frameBorder="0" width="200" height="35"></iframe>');
